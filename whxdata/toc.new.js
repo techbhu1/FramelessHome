@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"CLI Reference Guide","type":"book","tilePath":"","description":"","url":"os8_cli/title_page/title_page.htm","key":"toc1"},{"name":"OmniSwitch Network Configuration Guide","type":"book","tilePath":"","key":"toc2"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
